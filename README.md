@@ -50,7 +50,7 @@ Hilfreich sind konkrete Fälle: Welche Entscheidung war unklar? Welche Anweisung
 
 ## Lizenz
 
-Die Lizenz wird vor Veröffentlichung festgelegt. Für eine freie Nutzung, Anpassung und Weitergabe ist MIT als Vorschlag vorgesehen. Bis zur Entscheidung wird keine Open-Source-Lizenz behauptet.
+Der Skill und die begleitende Dokumentation stehen unter der [MIT-Lizenz](LICENSE). Nutzung, Anpassung und Weitergabe sind unter deren Bedingungen erlaubt. Der Lizenz- und Copyright-Hinweis ist beizubehalten; es besteht keine Gewährleistung.
 
 ## Fachliche Referenz
 
